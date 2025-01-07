@@ -1,0 +1,14 @@
+.highlight-button,
+.standard-button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.highlight-button {
+    background-color: #ffff00;
+}
+
+.standard-button {
+    color: #ffffff;
+    background-color: #121212;
+}
